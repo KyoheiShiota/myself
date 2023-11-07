@@ -27,7 +27,7 @@
     - らき☆すた  
   　                      　　　　　　　　　　　　　　　　等...
 
-### 所属団体：
+### 所属団体
 
 - FUSiON(https://x.com/CanSat_FUSiON)
   - 2022年4月~8月 MISSION2 能代宇宙イベント 回路担当
