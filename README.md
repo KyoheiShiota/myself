@@ -51,7 +51,7 @@
 - 総合研究大学院大学 先端技術院 核融合科学コース 体験入学(https://soken.nifs.ac.jp/ja/open)
 - CEED8th 講演「総研大の体験入学に行ってきたよ」(https://sora-akagami.notion.site/CEED-8-f8904d9e217b4635b22fcd412d7f36d5)
 - 日本原子力研究開発機構 夏期休暇実習(インターン)(https://www.jaea.go.jp/saiyou/internship/67/)
-- 対面CEED in高知 ~回帰~ 講演「オタクなら一度はやっとけ　聖地巡礼のススメ　~入門編~」
+- 対面CEED in高知 ～回帰～ 講演「オタクなら一度はやっとけ　聖地巡礼のススメ　～入門編～」
 
 ### 受賞歴
 
